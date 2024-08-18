@@ -5,9 +5,11 @@ VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackendDevStuff.Patterns.FactoryMethod", "BackendDevStuff.Patterns.FactoryMethod\BackendDevStuff.Patterns.FactoryMethod.csproj", "{739C1C72-220D-4ED6-AC02-B1B1E577CEC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendDevStuff.Patterns.Singleton", "BackendDevStuff.Patterns.Singleton\BackendDevStuff.Patterns.Singleton.csproj", "{510DCFDF-F560-4A5B-998A-944D2E8BE17A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackendDevStuff.Patterns.Singleton", "BackendDevStuff.Patterns.Singleton\BackendDevStuff.Patterns.Singleton.csproj", "{510DCFDF-F560-4A5B-998A-944D2E8BE17A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendDevStuff.Patterns.StrategyPattern", "BackendDevStuff.Patterns.StrategyPattern\BackendDevStuff.Patterns.StrategyPattern.csproj", "{4AB395C3-8E77-4201-9DDF-5055BB0CAFFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackendDevStuff.Patterns.StrategyPattern", "BackendDevStuff.Patterns.StrategyPattern\BackendDevStuff.Patterns.StrategyPattern.csproj", "{4AB395C3-8E77-4201-9DDF-5055BB0CAFFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendDevStuff.Patterns.MediatorPattern", "BackendDevStuff.Patterns.MediatorPattern\BackendDevStuff.Patterns.MediatorPattern.csproj", "{D9E8795C-C058-416D-AB99-4E6B19924784}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{4AB395C3-8E77-4201-9DDF-5055BB0CAFFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AB395C3-8E77-4201-9DDF-5055BB0CAFFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AB395C3-8E77-4201-9DDF-5055BB0CAFFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9E8795C-C058-416D-AB99-4E6B19924784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E8795C-C058-416D-AB99-4E6B19924784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E8795C-C058-416D-AB99-4E6B19924784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E8795C-C058-416D-AB99-4E6B19924784}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
